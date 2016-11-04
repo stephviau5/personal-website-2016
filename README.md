@@ -1,2 +1,3 @@
-# personal-website-2016
-my first repository for my site
+# hello-world
+my first repository for my site <br/>
+This is my first Git project.
